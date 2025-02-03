@@ -1,0 +1,7 @@
+.vscode/
+venv/
+__pycache__/
+shopknife/shopknife.db
+contracts/build/
+.env
+node_modules/
